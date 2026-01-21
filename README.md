@@ -37,7 +37,7 @@ This webapp is configured to automatically deploy to GitHub Pages when changes a
 
 3. **Deploy**:
    - Push to the `main` branch or manually trigger the workflow from the Actions tab
-   - Your app will be available at: `https://saisrikiran25-ctrl.github.io/AIAdvantage/`
+   - Your app will be available at: `https://<username>.github.io/AIAdvantage/`
 
 ### Manual Deployment:
 
